@@ -7,6 +7,7 @@ This is a simple chat room application implemented in Python using socket progra
 - Connection establishment and password checking
 - Multiple clients can join the chat room
 - Chat functionality with message broadcasting
+- Thread safe programming
 - Support for shortcuts like :) and :(
 - Clients can leave the chat room by typing :Exit
 
